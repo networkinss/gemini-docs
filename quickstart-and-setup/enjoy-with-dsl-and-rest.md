@@ -1,7 +1,7 @@
 # Enjoy with DSL and REST
 
 {% hint style="success" %}
-If you followed the [Start Gemini ](start-gemini/)section Gemini has already configured its internal structures and has created the `schema/RUNTIME.at` abstract type file in the working directory. 
+If you followed the [Start Gemini ](start-gemini/)section Gemini has already configured its internal structures and has created the _**schema/RUNTIME.at**_ abstract type file in the working directory. 
 {% endhint %}
 
 ### DSL

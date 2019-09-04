@@ -1,12 +1,8 @@
 # Environment Setup
 
-The easiest way to run or develop with Gemini is to use the **Docker** configuration you can find in the project ****avoiding ****the installation of other software except Java. Here  is a quick tutorial \(all the commands are explained below in the documentation\)
-
-{% embed url="https://vimeo.com/352005400" %}
-
 ### **Requirements**
 
-**NB**: If you don't want to use Docker you need the following tools in your machine:
+**NB**: If you don't want to use Docker you need the following tools in your machine
 
 * Postgresql 11+
 * Java 9+

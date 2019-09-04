@@ -1,5 +1,7 @@
 # Overview
 
+![](.gitbook/assets/gemini_logo.png)
+
 Gemini is a backend REST framework to automatically create CRUD REST APIs from scratch starting from a simple Schema definition called Gemini DSL. Briefly Gemini automatically handles for you \(_**without**_ _generating code_\):
 
 * **Data Storage**: creating all persistence stuff \(tables, relations and so on\)

@@ -6,4 +6,5 @@
   * [Start Gemini](quickstart-and-setup/start-gemini/README.md)
     * [Zero Code Platform](quickstart-and-setup/start-gemini/zero-code-platform.md)
     * [Gemini as Dependency](quickstart-and-setup/start-gemini/gemini-as-dependency.md)
+  * [Enjoy with DSL and REST](quickstart-and-setup/enjoy-with-dsl-and-rest.md)
 

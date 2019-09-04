@@ -6,3 +6,5 @@ The easiest way to use Gemini is setting up a suitable environment with Docker a
 
 {% page-ref page="environment-setup.md" %}
 
+{% page-ref page="start-gemini/" %}
+

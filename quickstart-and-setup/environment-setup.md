@@ -4,7 +4,7 @@ The easiest way to run or develop with Gemini is to use the **Docker** configura
 
 {% embed url="https://vimeo.com/352005400" %}
 
-**Requirements**
+### **Requirements**
 
 **NB**: If you don't want to use Docker you need the following tools in your machine:
 
@@ -12,7 +12,7 @@ The easiest way to run or develop with Gemini is to use the **Docker** configura
 * Java 9+
 * Gradle 5+
 
-**Docker Development Environment**
+### **Docker Development Environment**
 
 Start docker services is simple, docker compose works for you for all the volumes, services and variables mapping. 
 

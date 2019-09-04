@@ -8,3 +8,5 @@ The easiest way to use Gemini is setting up a suitable environment with Docker a
 
 {% page-ref page="start-gemini/" %}
 
+{% page-ref page="enjoy-with-dsl-and-rest.md" %}
+

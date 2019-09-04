@@ -12,5 +12,3 @@ Gemini is a backend REST framework to automatically create CRUD REST APIs from s
 **Github Repository:** [**https://github.com/gemini-projects/gemini**](https://github.com/gemini-projects/gemini)\*\*\*\*
 {% endhint %}
 
-
-

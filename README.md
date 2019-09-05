@@ -20,5 +20,11 @@ Gemini is a backend REST framework to automatically create CRUD REST APIs from s
 * **Authentication**: by using Spring OAuth2 and JWT tokens
 * **API events and callback**: to add business logic with ease
 
+{% hint style="warning" %}
+**GEMINI doesn't generate code**
+
+This is the main difference versus other framework
+{% endhint %}
+
 ![](.gitbook/assets/gemini_hiw.gif)
 

@@ -10,7 +10,7 @@
 
 ## DSL and API <a id="dsl-and-types"></a>
 
-* [Entities and Modules](dsl-and-types/entities-and-modules.md)
+* [Entities, Modules and APIs](dsl-and-types/entities-and-modules.md)
 * [Types](dsl-and-types/types/README.md)
   * [Primitive Types](dsl-and-types/types/gemini-entities.md)
   * [Entity Reference](dsl-and-types/types/entity-reference.md)

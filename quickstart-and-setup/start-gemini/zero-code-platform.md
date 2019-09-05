@@ -2,7 +2,7 @@
 
 You can build the standalone executable or download the desired version from GitHub. The only things to remember is to specify the `docker/dev/wd/` from the Gemini Repositor as the Java working directory. In this way you can use the already crafted `wd/application.properties`.
 
-#### **Build Executable**
+### **Build Executable**
 
 Gemini is built on SpringBoot that provides out of the box all the task to create bootable or executable jar file with all dependencies.
 
@@ -15,7 +15,7 @@ gradle executableJar
 cd gemini-postgresql/dist
 ```
 
-#### Run Gemini
+### Run Gemini
 
 Make sure that the executable is placed inside `docker/dev/wd/` to be sure that the root working directory contains all the crafted Spring application properties
 

@@ -1,4 +1,4 @@
-# Entities, Modules and APIs
+# Entities and REST APIs
 
 ### **Entities**
 

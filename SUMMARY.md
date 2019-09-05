@@ -8,8 +8,10 @@
     * [Gemini as Dependency](quickstart-and-setup/start-gemini/gemini-as-dependency.md)
   * [Enjoy with DSL and REST](quickstart-and-setup/enjoy-with-dsl-and-rest.md)
 
-## GEMINI DSL <a id="dsl-and-types"></a>
+## DSL and API <a id="dsl-and-types"></a>
 
-* [Gemini Entities](dsl-and-types/gemini-entities.md)
-* [Types](dsl-and-types/types.md)
+* [Entities and Modules](dsl-and-types/entities-and-modules.md)
+* [Types](dsl-and-types/types/README.md)
+  * [Primitive Types](dsl-and-types/types/gemini-entities.md)
+  * [Entity Reference](dsl-and-types/types/entity-reference.md)
 

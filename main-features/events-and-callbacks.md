@@ -1,6 +1,6 @@
-# Gemini Meta Data
+# Events & Callbacks
 
 {% hint style="danger" %}
-WIP
+TODO
 {% endhint %}
 

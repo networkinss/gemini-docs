@@ -1,3 +1,9 @@
+---
+description: >-
+  Automatically generate backend REST API. Build modern web/mobile application,
+  microservice and MVP faster than ever.
+---
+
 # Zero-Code REST framework
 
 ![](.gitbook/assets/gemini_logo.png)

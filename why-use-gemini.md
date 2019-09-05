@@ -7,3 +7,11 @@ Gemini uses a different approach compared to other frameworks:
 * **Flexibility** and **Customization -** developed on top of Spring, so you can register your custom controller or use Spring features as you want 
 * **Dedicated Entity Manager** - Gemini doesn't use JPA and Hibernate
 
+{% hint style="success" %}
+But the most important thing is that you can build **FULL** **REST APIs** in **minutes**
+{% endhint %}
+
+{% hint style="info" %}
+And if you want to add business logic or customize them you can use Gemini Events \(and write some code of course\)
+{% endhint %}
+

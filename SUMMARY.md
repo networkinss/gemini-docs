@@ -13,5 +13,6 @@
 * [Entities, Modules and APIs](dsl-and-types/entities-and-modules.md)
 * [Types](dsl-and-types/types/README.md)
   * [Primitive Types](dsl-and-types/types/gemini-entities.md)
+  * [Date And Time](dsl-and-types/types/date-and-time.md)
   * [Entity Reference](dsl-and-types/types/entity-reference.md)
 

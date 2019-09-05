@@ -2,7 +2,17 @@
 
 Primitive types are numbers, strings booleans and their aliases.
 
-![](../../.gitbook/assets/primitive_type_dsl.png)
+```yaml
+ENTITY PrimitiveTypes {
+    TEXT            code *          // TEXT is the single type for Strings  
+    DOUBLE          double
+    DECIMAL         anotherDouble
+    NUMBER          anyNumber       // any number (int or foating point)
+    LONG            long
+    QUANTITY        anotherLong
+    BOOL            isOk
+}
+```
 
 ### **Numbers**
 
@@ -23,4 +33,15 @@ Any string field can be defined with the **TEXT** type. No matter its size, it i
 ### **Boolean**
 
 Boolean is _true_ or _false_ and can be defined with the **BOOL** type
+
+## API Example
+
+```bash
+$ curl -H "Content-Type: application/json" -X POST http://127.0.0.1:8090/api/primitivetypes -i -d '{"code":"logicalKey","anotherDouble":7.77,"double":7.77,"isOk":true,"anotherLong":7,"anyNumber":70,"long":7}'
+  
+#   HTTP/1.1 200
+#   Content-Type: application/json;charset=UTF-8
+   
+#   {"code":"logicalKey","anotherDouble":7.77,"double":7.77,"isOk":true,"anotherLong":7,"anyNumber":70,"long":7}
+```
 

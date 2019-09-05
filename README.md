@@ -7,7 +7,7 @@ description: >-
 # Zero-Code REST framework
 
 {% hint style="info" %}
-Gemini is an under development framework that need support from the community. If you like the idea and the project please try it and put a star on Github. With [Docker](quickstart-and-setup/environment-setup.md) you can try it in minutes.
+Gemini is an under development framework that need support from the community \(feedback, improvements and criticism\). If you like the idea and the project approach please try it and put a star on Github. With [Docker](quickstart-and-setup/environment-setup.md) you can setup a full environment it in minutes.
 
 **Github Repository:** [**https://github.com/gemini-projects/gemini**](https://github.com/gemini-projects/gemini)\*\*\*\*
 {% endhint %}

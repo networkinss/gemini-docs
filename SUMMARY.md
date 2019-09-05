@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Zero-Code REST framework](README.md)
+* [Why use Gemini](why-use-gemini.md)
 * [QuickStart and Install](quickstart-and-setup/README.md)
   * [Environment Setup](quickstart-and-setup/environment-setup.md)
   * [Start Gemini](quickstart-and-setup/start-gemini/README.md)

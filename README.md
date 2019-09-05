@@ -1,8 +1,4 @@
----
-description: Zero-Code backend REST framework
----
-
-# Gemini
+# Zero-Code REST framework
 
 ![](.gitbook/assets/gemini_logo.png)
 

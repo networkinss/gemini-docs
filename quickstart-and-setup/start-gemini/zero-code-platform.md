@@ -29,8 +29,12 @@ java -jar ./gemini-postgresql-0.2.x-standalone.jar
 ./gemini-postgresql-0.2.x-executable.jar
 ```
 
+{% hint style="info" %}
+If you use the **application.properties** of _/docker/dev/wd_  directory you now have Gemini bound to port **8080.** 
+{% endhint %}
+
 {% hint style="success" %}
-Now wait that Gemini auto-setup itself and once the logs prints`STARTED - GEMINI-WEBAPP CONTEXT` you are able to use Gemini as a zero code platform and define your rest entities with the Gemini DSL
+Now wait that Gemini auto-setup itself and once the logs prints **STARTED - GEMINI-WEBAPP CONTEXT** you are able to use Gemini as a zero code platform and define your rest entities with the Gemini DSL
 {% endhint %}
 
 Now you are ready, you can move here to define APIs and enjoy with Gemini.

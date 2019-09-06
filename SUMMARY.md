@@ -3,7 +3,7 @@
 * [Zero-Code REST framework](README.md)
 * [Why use Gemini](why-use-gemini.md)
 * [QuickStart and Install](quickstart-and-setup/README.md)
-  * [Environment Setup](quickstart-and-setup/environment-setup.md)
+  * [Environment Setup \(Docker\)](quickstart-and-setup/environment-setup.md)
   * [Start Gemini](quickstart-and-setup/start-gemini/README.md)
     * [Zero Code Platform](quickstart-and-setup/start-gemini/zero-code-platform.md)
     * [Gemini as Dependency](quickstart-and-setup/start-gemini/gemini-as-dependency.md)
@@ -20,7 +20,7 @@
 
 ## MAIN FEATURES
 
-* [Gemini Meta Data](main-features/gemini-meta-data.md)
 * [Authentication - OAuth2](main-features/authentication-oauth2.md)
+* [Gemini Meta Data](main-features/gemini-meta-data.md)
 * [Events & Callbacks](main-features/events-and-callbacks.md)
 

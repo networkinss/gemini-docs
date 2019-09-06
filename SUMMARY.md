@@ -23,5 +23,5 @@
 * [Authentication - OAuth2](main-features/authentication-oauth2.md)
 * [Gemini Meta Data](main-features/gemini-meta-data/README.md)
   * [UUID V3](main-features/gemini-meta-data/uuid-v3.md)
-* [Events & Callbacks](main-features/events-and-callbacks.md)
+* [Gemini Events](main-features/events-and-callbacks.md)
 

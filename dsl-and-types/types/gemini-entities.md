@@ -36,12 +36,12 @@ Boolean is _true_ or _false_ and can be defined with the **BOOL** type
 
 ## API Example
 
-```bash
+```http
 $ curl -H "Content-Type: application/json" -X POST http://127.0.0.1:8090/api/primitivetypes -i -d '{"code":"logicalKey","anotherDouble":7.77,"double":7.77,"isOk":true,"anotherLong":7,"anyNumber":70,"long":7}'
   
-#   HTTP/1.1 200
-#   Content-Type: application/json;charset=UTF-8
+HTTP/1.1 200
+Content-Type: application/json;charset=UTF-8
    
-#   {"code":"logicalKey","anotherDouble":7.77,"double":7.77,"isOk":true,"anotherLong":7,"anyNumber":70,"long":7}
+{"code":"logicalKey","anotherDouble":7.77,"double":7.77,"isOk":true,"anotherLong":7,"anyNumber":70,"long":7}
 ```
 

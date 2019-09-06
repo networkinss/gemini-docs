@@ -2,8 +2,8 @@
 
 ### **Login**
 
-{% hint style="success" %}
-To enable Gemini Authentication you need to use the following Spring parameter. If you don't specify a value Authentication is enabled out of the box.
+{% hint style="danger" %}
+Gemini Authentication is under development. To enable it you need to use the following Spring parameter. If you don't specify a value Authentication is enabled out of the box.
 
  **gemini.auth=true**
 {% endhint %}
@@ -58,9 +58,11 @@ username: **Admin**
 password: **Admin**
 {% endhint %}
 
-### **Swagger UI**
+### **Try Authentication Flow With Swagger UI**
 
 {% hint style="success" %}
-OpenAPI spec created by Gemini already provides Authentication features. Try the API setting up the [Docker Environment](../quickstart-and-setup/environment-setup.md)
+OpenAPI spec created by Gemini already provides Authentication features. Try the Auth Flow setting up the [Docker Environment](../quickstart-and-setup/environment-setup.md) and use Swagger UI
 {% endhint %}
+
+![](../.gitbook/assets/auth_login.gif)
 

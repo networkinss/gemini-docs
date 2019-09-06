@@ -4,3 +4,5 @@
 TODO
 {% endhint %}
 
+![](../.gitbook/assets/gemini_meta_data.gif)
+

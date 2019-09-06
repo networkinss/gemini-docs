@@ -1,10 +1,10 @@
 ---
 description: >-
-  Automatically generate backend REST API. Build modern web/mobile application,
-  microservice and MVP faster than ever.
+  Gemini is a Model Driven REST framework to build CRUD APIs with Zero Code
+  (except if you want to customize business logic)
 ---
 
-# Zero-Code REST framework
+# Gemini Overview
 
 {% hint style="info" %}
 Gemini is an under development framework that need support from the community \(feedback, improvements and criticism\). If you like the idea and the project approach please try it and put a star on Github. With [Docker](quickstart-and-setup/environment-setup.md) you can setup a full environment it in minutes.

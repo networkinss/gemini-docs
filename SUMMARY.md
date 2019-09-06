@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Zero-Code REST framework](README.md)
+* [Gemini Overview](README.md)
 * [Why use Gemini](why-use-gemini.md)
 * [QuickStart and Install](quickstart-and-setup/README.md)
   * [Environment Setup \(Docker\)](quickstart-and-setup/environment-setup.md)
@@ -11,7 +11,7 @@
 
 ## GEMINI DSL & REST APIS <a id="dsl-and-types"></a>
 
-* [Entities and REST APIs](dsl-and-types/entities-and-modules.md)
+* [Entities and REST APIs](dsl-and-types/entities-and-rest-api.md)
 * [Types](dsl-and-types/types/README.md)
   * [Primitive Types](dsl-and-types/types/gemini-entities.md)
   * [Date And Time](dsl-and-types/types/date-and-time.md)

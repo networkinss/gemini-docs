@@ -9,7 +9,7 @@ Gemini uses a different approach compared to other frameworks:
 * **Dedicated Entity Manager** - Gemini doesn't use JPA and Hibernate
 
 {% hint style="success" %}
-But the most important thing is that you can build **FULL** **REST APIs** in **minutes** starting from a Model
+But the most important thing is that you can build **FULL** **REST APIs** in **minutes** starting from a Model. REST best practice are provided for you out of the box: _controllers_, _pagination_, _limit_, _search strings_...
 
 And if you want to add business logic or customize them you can use [Gemini Events](main-features/events-and-callbacks.md) \(and write some code of course\)
 {% endhint %}

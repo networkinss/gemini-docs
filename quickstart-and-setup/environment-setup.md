@@ -5,7 +5,7 @@
 **NB**: If you don't want to use Docker you need the following tools in your machine
 
 * Postgresql 11+
-* Java 9+
+* Java 10+
 * Gradle 5+
 
 ### **Docker Development Environment**

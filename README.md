@@ -1,7 +1,7 @@
 ---
 description: >-
-  Gemini is a Model Driven REST framework to build CRUD APIs with Zero Code
-  (except if you want to customize business logic)
+  Gemini is a Model Driven REST framework that automatically generate CRUD APIs 
+  with zero code generation.
 ---
 
 # Gemini Overview

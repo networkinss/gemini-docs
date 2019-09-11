@@ -61,7 +61,7 @@ password: **Admin**
 ### **Try Authentication Flow With Swagger UI**
 
 {% hint style="success" %}
-OpenAPI spec created by Gemini already provides Authentication features. Try the Auth Flow setting up the [Docker Environment](../quickstart-and-setup/environment-setup.md) and use Swagger UI
+OpenAPI spec created by Gemini already provides Authentication features. Try the Auth Flow setting up the [Docker Environment](../getting-started/quickstart-and-setup/environment-setup.md) and use Swagger UI
 {% endhint %}
 
 ![](../.gitbook/assets/auth_login.gif)

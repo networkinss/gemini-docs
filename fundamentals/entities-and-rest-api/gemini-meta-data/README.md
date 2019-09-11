@@ -1,4 +1,4 @@
-# Gemini Meta Data
+# Meta Data
 
 Gemini is Model Driven Framework that automatically calculate and stores a series of **Meta Information** about its entity records.
 
@@ -20,5 +20,5 @@ Accept: application/json; gemini=api.meta
 
 OpenAPI3 generated documentation already provides this kind of media type. Simply use the Swagger UI to try it out.
 
-![](../../.gitbook/assets/meta_data_example.gif)
+![](../../../.gitbook/assets/meta_data_example.gif)
 

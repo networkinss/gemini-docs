@@ -9,7 +9,7 @@ If you want to know more about UUID-v3 take a look at this article
 
 UUID-v3 are useful to synchronize data between environments and to be used also in REST APIs. Gemini provide also the UUID endpoint for each entity resource in addition to logical key. For example a Book can be retrieved both starting from the isbn \(logical key\) and its UUID.
 
-![](../../.gitbook/assets/entity_2.png)
+![](../../../.gitbook/assets/entity_2.png)
 
 {% hint style="warning" %}
 **What about logical key changes?**

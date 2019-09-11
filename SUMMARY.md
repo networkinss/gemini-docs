@@ -1,27 +1,27 @@
 # Table of contents
 
 * [Gemini Overview](README.md)
-* [Why use Gemini](why-use-gemini.md)
-* [QuickStart and Install](quickstart-and-setup/README.md)
-  * [Environment Setup \(Docker\)](quickstart-and-setup/environment-setup.md)
-  * [Start Gemini](quickstart-and-setup/start-gemini/README.md)
-    * [Zero Code Platform](quickstart-and-setup/start-gemini/zero-code-platform.md)
-    * [Gemini as Dependency](quickstart-and-setup/start-gemini/gemini-as-dependency.md)
-  * [Enjoy with DSL and REST](quickstart-and-setup/enjoy-with-dsl-and-rest.md)
 
-## GEMINI DSL & REST APIS <a id="dsl-and-types"></a>
+## GETTING STARTED
 
-* [Entities and REST APIs](dsl-and-types/entities-and-rest-api.md)
-* [Types](dsl-and-types/types/README.md)
-  * [Primitive Types](dsl-and-types/types/gemini-entities.md)
-  * [Date And Time](dsl-and-types/types/date-and-time.md)
-  * [Entity Reference](dsl-and-types/types/entity-reference.md)
-* [Interfaces](dsl-and-types/interfaces.md)
+* [Why use Gemini](getting-started/why-use-gemini.md)
+* [QuickStart and Install](getting-started/quickstart-and-setup/README.md)
+  * [Environment Setup \(Docker\)](getting-started/quickstart-and-setup/environment-setup.md)
+  * [Start Gemini](getting-started/quickstart-and-setup/start-gemini/README.md)
+    * [Zero Code Platform](getting-started/quickstart-and-setup/start-gemini/zero-code-platform.md)
+    * [Gemini as Dependency](getting-started/quickstart-and-setup/start-gemini/gemini-as-dependency.md)
+  * [Enjoy with DSL and REST](getting-started/quickstart-and-setup/enjoy-with-dsl-and-rest.md)
 
-## MAIN FEATURES
+## Fundamentals
 
-* [Authentication - OAuth2](main-features/authentication-oauth2.md)
-* [Gemini Meta Data](main-features/gemini-meta-data/README.md)
-  * [UUID V3](main-features/gemini-meta-data/uuid-v3.md)
-* [Gemini Events](main-features/events-and-callbacks.md)
+* [Entities and REST APIs](fundamentals/entities-and-rest-api/README.md)
+  * [Types](fundamentals/entities-and-rest-api/types/README.md)
+    * [Primitive Types](fundamentals/entities-and-rest-api/types/gemini-entities.md)
+    * [Date And Time](fundamentals/entities-and-rest-api/types/date-and-time.md)
+    * [Entity Reference](fundamentals/entities-and-rest-api/types/entity-reference.md)
+  * [Meta Data](fundamentals/entities-and-rest-api/gemini-meta-data/README.md)
+    * [UUID V3](fundamentals/entities-and-rest-api/gemini-meta-data/uuid-v3.md)
+  * [Interfaces](fundamentals/entities-and-rest-api/interfaces.md)
+* [Authentication - OAuth2](fundamentals/authentication-oauth2.md)
+* [Gemini Events](fundamentals/events-and-callbacks.md)
 

@@ -22,6 +22,9 @@
   * [Meta Data](fundamentals/entities-and-rest-api/gemini-meta-data/README.md)
     * [UUID V3](fundamentals/entities-and-rest-api/gemini-meta-data/uuid-v3.md)
   * [Interfaces](fundamentals/entities-and-rest-api/interfaces.md)
+  * [API Filter and Sort](fundamentals/entities-and-rest-api/api-filter-and-sort.md)
 * [Authentication - OAuth2](fundamentals/authentication-oauth2.md)
-* [Gemini Events](fundamentals/events-and-callbacks.md)
+* [Gemini Events](fundamentals/events-and-callbacks/README.md)
+  * [Field Events](fundamentals/events-and-callbacks/field-events.md)
+  * [Record Events](fundamentals/events-and-callbacks/record-events.md)
 

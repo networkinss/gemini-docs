@@ -11,6 +11,7 @@
     * [Zero Code Platform](getting-started/quickstart-and-setup/start-gemini/zero-code-platform.md)
     * [Gemini as Dependency](getting-started/quickstart-and-setup/start-gemini/gemini-as-dependency.md)
   * [Enjoy with DSL and REST](getting-started/quickstart-and-setup/enjoy-with-dsl-and-rest.md)
+* [Starter Project](getting-started/starter-project.md)
 
 ## Fundamentals
 
